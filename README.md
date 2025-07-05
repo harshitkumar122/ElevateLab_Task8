@@ -1,4 +1,5 @@
 ElevateLabs_Task8
+
 This task focuses on modularizing SQL logic by creating stored procedures and user-defined functions in a relational database. In this task, you will write reusable SQL blocks using CREATE PROCEDURE and CREATE FUNCTION, use parameters, and implement logic to make your SQL more maintainable.
 
 🎯 Objective
